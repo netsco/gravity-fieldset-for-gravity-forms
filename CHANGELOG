@@ -1,0 +1,25 @@
+== Changelog ==
+
+= 0.2.1 =
+* Fix: Text Domain
+
+= 0.2 =
+* Added support for custom classes in fieldset end
+* Major improvement in HTML output
+* Fix: Compatability issue with Gravity PDF plugin
+* Fix: compatability issue with WCAG 2.0 form fields for Gravity Forms plugin
+* Fix: Compatability issue with Gravity Forms Repeater Add-On plugin
+
+PLEASE NOTE:
+class .gform_fieldset_end has been removed
+class .gform_fieldset_begin will be deprecated in the next release
+
+= 0.1 =
+* Cleanup
+* Added comments
+* Improved English and Dutch Language
+* Added auto close or open when adding fieldset begin or end
+* Added auto delete of fieldset end when deleting fieldset begin
+
+= 0.0.1 =
+* First release
