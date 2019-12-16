@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Gravity Fieldset for Gravity Forms
-Version: 0.2.1
+Plugin Name: Gravity Fieldset for Gravity Forms Fork
+Version: 0.3
 Description: Extends the Gravity Forms plugin - adding a fieldset open and close field that can be used to create 'real' sections.
-Author: Bas van den Wijngaard & Harro Heijboer
+Author: Bas van den Wijngaard & Harro Heijboer forked by Ben Freeman
 Text Domain: gravity-fieldset-for-gravity-forms
 Domain Path: /languages
 License: GPL2 v2
