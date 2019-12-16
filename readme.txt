@@ -12,6 +12,8 @@ Extends the Gravity Forms plugin - adding an fieldset open and close field that 
 
 == Description ==
 
+Forked from original to fix issue with removing fieldset end, does not seem to be active any more.
+
 > This plugin is an add-on for the <a href="http://www.gravityforms.com" target="_blank">Gravity Forms</a>.
 
 Features of this plugin:
