@@ -17,6 +17,7 @@ Available Languages:
 
 * English
 * Dutch
+* German
 
 ## Installation
 
